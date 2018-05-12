@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2769
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34207#The-Joy-of-Living--Es-lebe-das-Leben-A-Play-in-Five-Acts
 gutenberg_issued: '2010-11-04'
 gutenberg_type: Text
 identifiers:
